@@ -2,3 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
+
+\data
+\01_PreProcInput
+\02_Datafiles
+\03_Output
